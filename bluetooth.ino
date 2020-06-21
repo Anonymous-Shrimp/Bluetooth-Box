@@ -1,3 +1,9 @@
+
+//By Anonymous Shrimp
+//https://youtube.com/channel/UCs2Sz1gPlWAdET5qcLcZCJw
+//https://github.com/Anonymous-Shrimp
+
+
 #include <SoftwareSerial.h>
 
 bool newLineS = false;
